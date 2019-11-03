@@ -31,4 +31,4 @@
 
 Использованы: градиентный бустинг, логистическая регрессия
 
-Score на Kaggle: 0.75522
+Score на [Kaggle](https://www.kaggle.com/c/dota-2-win-probability-prediction/overview): 0.75522
